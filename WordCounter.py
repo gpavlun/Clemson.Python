@@ -1,19 +1,18 @@
 """
-* pp3.py
-* Lu Yu    <<-----  YOU MUST CHANGE the comments and add your name
-* luy          <<-----  change to your username
-* ECE 2210, Fall 2024
-* PP3
-*
-* NOTE:  You must update all of the following comments!
-* 
-* Purpose:  A template for PP3 --   YOU MUST CHANGE THIS
-*
-* Assumptions:
-*
-* Bugs:  
-*
-* See the Programming Guide for requirements
+name:       Gregory Pavlunenko
+user:       gpavlun
+course:     ECE 2210
+semester:   Fall 2024
+project:    Unique Word Counter
+purpose:    This code is designed to read all
+            of the lines of text in the 
+            sherlock.txt file and store each 
+            word individually. It then finds the
+            number of unique words and returns
+            them.
+assumpt:    We are assuming that the text file has
+            not been edited in any way.
+bugs:
 """
 
 # You CANNOT import other modules
