@@ -3,14 +3,14 @@ name:       Gregory Pavlunenko
 user:       gpavlun
 course:     ECE2220
 semester:   fall
-project:    Bingo
+project:    Alarm
 purpose:    This code is designed to detect if 
-			an intruder is likely based off of 
-			date from various packets
-assumpt:	We are assuming that the inputs are
-			being accurately read and that a
-			the conditons for a false alarm are
-			correct and not coincidental.
+	    an intruder is likely based off of 
+            date from various packets
+assumpt:    We are assuming that the inputs are	
+            being accurately read and that a
+            the conditons for a false alarm are
+            correct and not coincidental.
 bugs:  
 """
 
