@@ -1,10 +1,14 @@
 ''' 
-pp2.py
-Course: ECE 2210 - Python Programming for ECE
-Semester: Fall 2024 
-Name: Gregory Pavlunenko
-CUID: C25220578
-Known Bugs: If your code contains any mistakes, please list them here.
+name:       Gregory Pavlunenko
+user:       gpavlun
+course:     ECE 2210
+semester:   Fall 2024
+project:    Password Verifier
+purpose:    This code is designed to check if a
+            persons password is going strong or
+	    weak, based off presupposed rules.
+assumpt:    
+bugs:  
 '''
 
 # You CANNOT import other modules
