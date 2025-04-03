@@ -1,8 +1,8 @@
 """
 name:       Gregory Pavlunenko
 user:       gpavlun
-course:     ECE2220
-semester:   fall
+course:     ECE 2210
+semester:   Fall 2024
 project:    Alarm
 purpose:    This code is designed to detect if 
 	    an intruder is likely based off of 
